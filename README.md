@@ -72,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Created by
 Vijoy Bardhan Singh
 vijoybardhan3@gmail.com 
+
+###
+Ashish Raj
+ashishraj0709@gmail.com
